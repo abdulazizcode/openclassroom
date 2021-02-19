@@ -1,0 +1,17 @@
+.btn {
+    background-color:rgba(1, 28, 55, 0);
+    border: 4px solid #999;
+    border-radius: 10rem;
+    cursor: pointer;
+    font-size: 3rem;
+    overflow: hidden;
+    padding: 1.85rem 3rem;
+    position: relative;
+    transition: all 450ms;
+}
+
+.btn:hover {
+    transform: scale(1.13);
+    background-color: rgba(1, 28, 55, 1);
+    color:#fff;
+}
